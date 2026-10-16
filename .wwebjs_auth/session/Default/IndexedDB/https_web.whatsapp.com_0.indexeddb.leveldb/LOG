@@ -1,0 +1,48 @@
+2026/10/16-05:07:24.223 363f Reusing MANIFEST /data/data/com.termux/files/home/whatsapp_bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/16-05:07:24.229 363f Recovering log #475
+2026/10/16-05:07:24.272 363f Reusing old log /data/data/com.termux/files/home/whatsapp_bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000475.log 
+2026/10/16-05:07:24.274 363f Delete type=2 #468
+2026/10/16-05:07:24.274 363f Delete type=2 #469
+2026/10/16-05:07:24.275 363f Delete type=2 #470
+2026/10/16-05:07:24.275 363f Delete type=2 #471
+2026/10/16-05:07:24.275 363f Delete type=2 #472
+2026/10/16-05:07:24.276 363f Delete type=2 #473
+2026/10/16-05:07:24.276 363f Delete type=2 #474
+2026/10/16-05:07:24.276 363f Delete type=2 #460
+2026/10/16-05:07:24.277 363f Delete type=2 #461
+2026/10/16-05:07:24.277 363f Delete type=2 #476
+2026/10/16-05:07:27.989 363e Level-0 table #487: started
+2026/10/16-05:07:28.008 363e Level-0 table #487: 148058 bytes OK
+2026/10/16-05:07:28.026 363e Delete type=0 #475
+2026/10/16-05:07:28.028 363f Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/16-05:07:28.033 363f Level-0 table #489: started
+2026/10/16-05:07:28.036 363f Level-0 table #489: 436 bytes OK
+2026/10/16-05:07:28.040 363f Delete type=0 #486
+2026/10/16-05:07:28.041 363f Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at '\x00%\x00\x00\x05' @ 2248970 : 0
+2026/10/16-05:07:28.042 363f Compacting 1@0 + 1@1 files
+2026/10/16-05:07:28.067 363f Generated table #490@0: 2776 keys, 76144 bytes
+2026/10/16-05:07:28.067 363f Compacted 1@0 + 1@1 files => 76144 bytes
+2026/10/16-05:07:28.071 363f compacted to: files[ 0 1 8 0 0 0 0 ]
+2026/10/16-05:07:28.073 363f Delete type=2 #489
+2026/10/16-05:07:28.074 363f Manual compaction at level-0 from '\x00%\x00\x00\x05' @ 2248970 : 0 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/16-05:07:28.649 363f Compacting 1@1 + 8@2 files
+2026/10/16-05:07:28.894 363f Generated table #491@1: 42760 keys, 2213107 bytes
+2026/10/16-05:07:29.076 363f Generated table #492@1: 52508 keys, 2211999 bytes
+2026/10/16-05:07:29.307 363f Generated table #493@1: 51452 keys, 2218542 bytes
+2026/10/16-05:07:29.453 363f Generated table #494@1: 3241 keys, 2152500 bytes
+2026/10/16-05:07:29.585 363f Generated table #495@1: 3006 keys, 2158618 bytes
+2026/10/16-05:07:29.775 363f Generated table #496@1: 22707 keys, 2230695 bytes
+2026/10/16-05:07:29.988 363f Generated table #497@1: 29073 keys, 2222754 bytes
+2026/10/16-05:07:30.098 363f Generated table #498@1: 50036 keys, 1231322 bytes
+2026/10/16-05:07:30.098 363f Compacted 1@1 + 8@2 files => 16639537 bytes
+2026/10/16-05:07:30.106 363f compacted to: files[ 0 0 8 0 0 0 0 ]
+2026/10/16-05:07:30.108 363f Delete type=2 #477
+2026/10/16-05:07:30.108 363f Delete type=2 #478
+2026/10/16-05:07:30.109 363f Delete type=2 #479
+2026/10/16-05:07:30.109 363f Delete type=2 #490
+2026/10/16-05:07:30.110 363f Delete type=2 #487
+2026/10/16-05:07:30.110 363f Delete type=2 #480
+2026/10/16-05:07:30.111 363f Delete type=2 #481
+2026/10/16-05:07:30.111 363f Delete type=2 #482
+2026/10/16-05:07:30.112 363f Delete type=2 #483
+2026/10/16-05:07:30.112 363f Delete type=2 #484

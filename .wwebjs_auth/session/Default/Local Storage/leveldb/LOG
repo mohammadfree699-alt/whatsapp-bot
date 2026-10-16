@@ -1,0 +1,6 @@
+2026/10/16-05:07:22.353 363f Reusing MANIFEST /data/data/com.termux/files/home/whatsapp_bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/10/16-05:07:22.376 363f Recovering log #3
+2026/10/16-05:07:22.379 363f Reusing old log /data/data/com.termux/files/home/whatsapp_bot/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2026/10/16-05:08:22.391 363f Level-0 table #5: started
+2026/10/16-05:08:22.408 363f Level-0 table #5: 19105 bytes OK
+2026/10/16-05:08:22.420 363f Delete type=0 #3
